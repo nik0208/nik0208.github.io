@@ -1,0 +1,37 @@
+a:hover {
+	color: red;
+}
+html {
+	font-size: 10px;
+	font-family: "Pacifico", cursive;
+}
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #D0EBC2;
+	text-shadow: 15px 15px 5px black; 
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+	border: 5px solid black;
+}
+html {
+	background-color: #BF5E40;
+}
+body {
+	width: 900px;
+	margin: 0 auto;
+	background-color: #9FB8DF;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+img {
+	width: 400px;
+	display: block;
+	margin: 0 auto;
+}
